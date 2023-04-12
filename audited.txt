@@ -1,0 +1,16 @@
+Number_of_orders XX (1-10)
+Hash_total_of_orders XXXXX 
+
+Order 1:
+Order_Number:A-XXXXXX 
+Agency_number:XXXXXX
+Modulus_number:X
+Total:XXXXX 
+Hash_total:XXXX 
+
+Order 2
+Order_Number:A-XXXXXX 
+Agency_number:XXXXXX
+Modulus_number:X
+Total:XXXXX 
+Hash_total:XXXX 

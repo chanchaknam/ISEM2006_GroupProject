@@ -1,4 +1,4 @@
-Order No:A_123456_B_567878_4_7
+Order No:A123456B5678784(7)
 Customer Number:987654
 Customer Name:ABC TONE
 Customer Address:ZZZZZZZ
