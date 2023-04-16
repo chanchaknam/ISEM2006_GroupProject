@@ -1,16 +1,16 @@
-Number_of_orders XX (1-10)
-Hash_total_of_orders XXXXX 
+Number_of_orders:2
+Hash_total_of_orders:21173375
 
-Order 1:
-Order_Number:A-XXXXXX 
-Agency_number:XXXXXX
-Modulus_number:X
-Total:XXXXX 
-Hash_total:XXXX 
+Order 1 details
+Order_Number: A-567879
+Agency_number: 123456
+Modulus_number: B
+Total:6384.0
+Hash_total:17805
 
-Order 2
-Order_Number:A-XXXXXX 
-Agency_number:XXXXXX
-Modulus_number:X
-Total:XXXXX 
-Hash_total:XXXX 
+Order 2 details
+Order_Number: A-567880
+Agency_number: 123456
+Modulus_number: B
+Total:4788.0
+Hash_total:23919

@@ -1,0 +1,25 @@
+Order No:A123456B5678805(2)
+Customer Number:901234
+Customer Name:Emily Chen
+Customer Address:Toronto
+Date:20230417
+Mall Dollar:4799.969999999999
+Items:
+2350,Stand Mixer,5,1000
+2350,Stand Mixer,5,1000
+2350,Stand Mixer,5,1000
+2350,Stand Mixer,5,1000
+2350,Stand Mixer,5,1000
+2350,Stand Mixer,5,1000
+1235,Wireless Keyboard,4,240
+1235,Wireless Keyboard,4,240
+1235,Wireless Keyboard,4,240
+1235,Wireless Keyboard,4,240
+5671,Robot Vacuum,4,1200
+5671,Robot Vacuum,4,1200
+5671,Robot Vacuum,4,1200
+5671,Robot Vacuum,4,1200
+SubTotal:5040.0
+VIP:-252.0
+Delivery Fee:0
+Total:4788.0
