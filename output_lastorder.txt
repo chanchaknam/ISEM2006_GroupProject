@@ -1,0 +1,22 @@
+Order No:A123456B5678819(4)
+Customer Number:901234
+Customer Name:Emily Chen
+Customer Address:Toronto
+Date:20230417
+Mall Dollar:6.555
+Items:
+9015,Rice Cooker,6,300
+9015,Rice Cooker,6,300
+9015,Rice Cooker,6,300
+9015,Rice Cooker,6,300
+9015,Rice Cooker,6,300
+9015,Rice Cooker,6,300
+9015,Rice Cooker,6,300
+9015,Rice Cooker,6,300
+1235,Wireless Keyboard,6,360
+1235,Wireless Keyboard,6,360
+1235,Wireless Keyboard,6,360
+SubTotal:2760.0
+VIP:-138.0
+Delivery Fee:0
+Total:2622.0
