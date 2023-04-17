@@ -1,22 +1,25 @@
-Order No:A123456B5678819(4)
-Customer Number:901234
-Customer Name:Emily Chen
-Customer Address:Toronto
+Order No:A123456C5678835(7)
+Customer Number:123456
+Customer Name:John Smith
+Customer Address:New York
 Date:20230417
-Mall Dollar:6.555
+Mall Dollar:4.5
 Items:
-9015,Rice Cooker,6,300
-9015,Rice Cooker,6,300
-9015,Rice Cooker,6,300
-9015,Rice Cooker,6,300
-9015,Rice Cooker,6,300
-9015,Rice Cooker,6,300
-9015,Rice Cooker,6,300
-9015,Rice Cooker,6,300
-1235,Wireless Keyboard,6,360
-1235,Wireless Keyboard,6,360
-1235,Wireless Keyboard,6,360
-SubTotal:2760.0
-VIP:-138.0
+1235,Wireless Keyboard,4,240
+1235,Wireless Keyboard,4,240
+1235,Wireless Keyboard,4,240
+1235,Wireless Keyboard,4,240
+9015,Rice Cooker,4,200
+9015,Rice Cooker,4,200
+9015,Rice Cooker,4,200
+9015,Rice Cooker,4,200
+9015,Rice Cooker,4,200
+2350,Stand Mixer,3,600
+2350,Stand Mixer,3,600
+9015,Rice Cooker,4,200
+9015,Rice Cooker,4,200
+9015,Rice Cooker,4,200
+SubTotal:1800.0
+VIP:-0.0
 Delivery Fee:0
-Total:2622.0
+Total:1800.0
