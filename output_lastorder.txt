@@ -1,25 +1,23 @@
-Order No:A123456C5678835(7)
+Order No:A123456B5678853(4)
 Customer Number:123456
 Customer Name:John Smith
 Customer Address:New York
-Date:20230417
-Mall Dollar:4.5
+Date:20230418
+Mall Dollar:1.92
 Items:
-1235,Wireless Keyboard,4,240
-1235,Wireless Keyboard,4,240
-1235,Wireless Keyboard,4,240
-1235,Wireless Keyboard,4,240
-9015,Rice Cooker,4,200
-9015,Rice Cooker,4,200
-9015,Rice Cooker,4,200
-9015,Rice Cooker,4,200
-9015,Rice Cooker,4,200
-2350,Stand Mixer,3,600
-2350,Stand Mixer,3,600
-9015,Rice Cooker,4,200
-9015,Rice Cooker,4,200
-9015,Rice Cooker,4,200
-SubTotal:1800.0
+9015,Rice Cooker,5,250
+9015,Rice Cooker,5,250
+9015,Rice Cooker,5,250
+9015,Rice Cooker,5,250
+9015,Rice Cooker,5,250
+9015,Rice Cooker,5,250
+6781,External Hard Drive,4,320
+6781,External Hard Drive,4,320
+6781,External Hard Drive,4,320
+6781,External Hard Drive,4,320
+6781,External Hard Drive,4,320
+6781,External Hard Drive,4,320
+SubTotal:960.0
 VIP:-0.0
 Delivery Fee:0
-Total:1800.0
+Total:960.0
