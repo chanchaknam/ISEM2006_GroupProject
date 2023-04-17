@@ -1,16 +1,9 @@
-Number_of_orders:2
-Hash_total_of_orders:21173375
+Number_of_orders:1
+Hash_total_of_orders:20427228
 
 Order 1 details
-Order_Number: A-567879
+Order_Number: A-567881
 Agency_number: 123456
 Modulus_number: B
-Total:6384.0
-Hash_total:17805
-
-Order 2 details
-Order_Number: A-567880
-Agency_number: 123456
-Modulus_number: B
-Total:4788.0
-Hash_total:23919
+Total:2622.0
+Hash_total:73355
